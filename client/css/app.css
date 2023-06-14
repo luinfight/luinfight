@@ -1,0 +1,6 @@
+#game {
+    top: 0vh;
+    left: 0vw;
+    position: fixed;
+    z-index: 1;
+}
